@@ -1,0 +1,22 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 45px;
+    font-weight: bold;
+    
+}
+img{
+    height: 500px;
+    width: 500px;
+    /* margin-left: 100px; */
+}
+.name-highlight{
+    color:#3ca96f;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    padding: 2%;
+    margin-left: 5%;
+}
